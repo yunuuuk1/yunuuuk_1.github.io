@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Yeon Wook"
-  avatar           : path of avatar image, e.g. "C:\Users\user\Downloads\IMG_8566.png"
+  avatar           : "/assets/images/NIKA.png"
   bio              : "**HELLO** "
   location         : "Somewhere"
   email            :
