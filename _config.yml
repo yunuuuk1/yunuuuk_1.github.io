@@ -116,12 +116,12 @@ author:
   name             : "Yeon Wook"
   avatar           : "/assets/images/NIKA.png"
   bio              : "**HELLO** "
-  location         : "Somewhere"
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto:yunuuuk7247@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/yunuuuk1"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/yunuuuk1/"
@@ -149,16 +149,16 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+       url: https://github.com/yunuuuk1
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      # url: https://github.com/yunuuuk1
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+       url: https://www.instagram.com/yunuuuk1/
 
 
 # Reading Files
